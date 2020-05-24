@@ -1,0 +1,5 @@
+wp-config.php
+*.log
+
+wp-content/plugins/simple-basic-contact-form/
+wp-content/plugins/contact-form-7/
